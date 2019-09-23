@@ -14,7 +14,7 @@ The running project will be multi machine learning (aka MML), a language for per
 
 ## Agenda 
 
-* domain-specific languages (DSL) -- DSLs.pdf
+* domain-specific languages (DSL) -- DSL.pdf
 * external DSLs and Xtext -- DSLXtext.pdf
 * metamodeling and EMF -- ModelManagementXtend1.pdf 
 * model transformation-- ModelManagementXtend1.pdf 
