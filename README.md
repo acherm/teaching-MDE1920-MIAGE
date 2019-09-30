@@ -34,11 +34,10 @@ The running project will be multi machine learning (aka MML), a language for per
    * TD1: https://docs.google.com/document/d/18KzZbwA7G21Nbc1V3TdwOLD-HUmjDMkMf-qGRq6NEZM/edit?usp=sharing
    * TD2: [Partiel 2016](https://github.com/acherm/teaching-MDE-MIAGE1718/blob/master/ExamIDM16.pdf) 
 * 6 TPs
-  * TP1: design of MML and first steps with Xtext 
+  * TP1+TP2: design of MML and first steps with Xtext 
   https://docs.google.com/document/d/1ZNdu-NGZWc55v1HugCttJWvqXhlxh_JrEDC492iZA24/edit?usp=sharing
-  * TP2: model transformation, let's write our first compiler 
-  * TP3: model transformation, compilers and execution
-  * TP4: test, refactoring, and continuing 
+  * TP3: model transformation, let's write our first compiler 
+  * TP4: model transformation, compilers and execution, automated testing
   * TP5/TP6/projet: TP* (putting all together) 
 
 
