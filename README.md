@@ -16,8 +16,8 @@ The running project will be multi machine learning (aka MML), a language for per
 
 * domain-specific languages (DSL) -- DSL.pdf
 * external DSLs and Xtext -- DSLXtext.pdf
-* metamodeling and EMF -- ModelManagementXtend1.pdf 
-* model transformation-- ModelManagementXtend1.pdf 
+* metamodeling and EMF -- ModelManagement1.pdf 
+* model transformation-- ModelManagement1.pdf 
 * meta-programming, annotations, advanced compositions -- ModelManagementXtend2.pdf 
 * Xtend, a modern programming language implemented with MDE principles (Xtext included) -- ModelManagementXtend2.pdf
 * variability modeling -- SPLVariability-light.pdf 
