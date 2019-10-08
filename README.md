@@ -14,6 +14,7 @@ The running project will be multi machine learning (aka MML), a language for per
 
 ## Agenda 
 
+* introduction to MDE https://people.irisa.fr/Jean-Marc.Jezequel/enseignement/IngenierieModeles.htm
 * domain-specific languages (DSL) -- DSL.pdf
 * external DSLs and Xtext -- DSLXtext.pdf
 * metamodeling and EMF -- ModelManagement1.pdf 
