@@ -38,9 +38,9 @@ The running project will be multi machine learning (aka MML), a language for per
   * TP1+TP2: design of MML and first steps with Xtext 
   https://docs.google.com/document/d/1ZNdu-NGZWc55v1HugCttJWvqXhlxh_JrEDC492iZA24/edit?usp=sharing
     - **deadline: 9 October 23h59 (Paris local time), 10% of the project's grade**
-  * TP3: model transformation, let's write our first compiler 
+  * TP3+4: model transformation, let's write our first compiler 
   https://docs.google.com/document/d/1_oqVyuwrhwn2p09RQCzloQAGDsSSmD9N6Kp7DfMVEdI/edit?usp=sharing
-  * TP4: model transformation, compilers and execution, automated testing
+  * TP5: model transformation, compilers and execution, automated testing
   * TP5/TP6/projet: TP* (putting all together) 
 
 
