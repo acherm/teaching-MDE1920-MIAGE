@@ -41,6 +41,7 @@ The running project will be multi machine learning (aka MML), a language for per
   * TP3+4: model transformation, let's write our first compiler 
   https://docs.google.com/document/d/1_oqVyuwrhwn2p09RQCzloQAGDsSSmD9N6Kp7DfMVEdI/edit?usp=sharing
   * TP5: model transformation, compilers and execution, automated testing
+  https://docs.google.com/document/d/1JZ6K3w_MojlyBrbY6hmNsbY4dPaDtHhofXbvTdiZpO0/edit?usp=sharing
   * TP5/TP6/projet: TP* (putting all together) 
 
 
