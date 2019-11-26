@@ -43,7 +43,7 @@ The running project will be multi machine learning (aka MML), a language for per
   * TP5: model transformation, compilers and execution, automated testing
   https://docs.google.com/document/d/1JZ6K3w_MojlyBrbY6hmNsbY4dPaDtHhofXbvTdiZpO0/edit?usp=sharing
   * TP5/TP6/projet: TP* (putting all together) 
-  https://docs.google.com/document/d/1U5MhOKd-lLpD-J4ExYgiCu3Iz7nTa8LuwsXgTAGCgMA/edit?usp=sharing
+ https://docs.google.com/document/d/1SX_aH8qMTYgqY13bJZOY3vTaJSEkLLCV7A5siaBkTZ0/edit?usp=sharing
 
 
 ## Exercices/Homework 
